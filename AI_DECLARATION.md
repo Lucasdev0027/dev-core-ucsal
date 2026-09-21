@@ -4,7 +4,7 @@
 Neste projeto, ferramentas de IA foram utilizadas para apoiar o desenvolvimento do código e resolução de dúvidas.
 
 ## Ferramentas Utilizadas: 
-Gemini
+Gemini, Claude
 
 ## Finalidade:
 - Esclarecimento de conceitos.
