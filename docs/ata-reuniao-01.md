@@ -1,4 +1,4 @@
-Ata de Reunião Nº [01]
+### Ata de Reunião Nº [01]
 
 1. Informações Gerais
 Nome da Equipe / Dupla:
