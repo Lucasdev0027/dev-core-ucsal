@@ -1,0 +1,15 @@
+========================================
+HISTÓRICO DE PROMPTS UTILIZADOS COM IA
+========================================
+
+Data: 18/09/2026 - Ferramenta: Claude
+Prompt: "Como posso estruturar um arquivo README.md para um projeto Git?"
+----------------------------------------
+Data: 20/09/2026 - Ferramenta: Gemini
+Prompt:"Explique a diferença prática entre o Diagrama de Classes e o Diagrama de Casos de uso,focando em quando devo usar cada um em um projeto real. Dê exemplos simples do cotidiano de desenvolvimento."
+----------------------------------------
+Data: 21/09/2026 - Ferramenta: Gemini
+Prompt: "Por favor, analise o texto abaixo e faça as seguintes etapas: Correção gramatical: Corrija erros ortográficos, e pontuação.
+----------------------------------------
+Data: 21/09/2026 - Ferramenta: Gemini
+Prompt: "Revise essa ata de reunião, e faça correção gramatical, erros de ortográfia e pontuação.
