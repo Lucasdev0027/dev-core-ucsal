@@ -1,0 +1,21 @@
+# Relatório de Contribuição - Fase 2
+
+**Equipe:** DevCore  
+**Data:** 29/09/2026  
+**Fase:** Fase 2 (Testes, Qualidade de Código e Validação)
+
+---
+
+## 📋 Sobre o Documento
+Este documento tem como objetivo registrar a divisão de tarefas e a entrega de cada membro integrante da equipe **DevCore** durante a execução da Fase 02 do projeto PokeSal, contemplando os critérios de avaliação de testes estáticos, suíte JUnit, SonarQube e Documento de Testes.
+
+---
+
+## 👥 Divisão de Tarefas por Membro
+
+| Membro da Equipe | Tarefas Realizadas |
+| :--- | :--- |
+| **Lucas Rodrigues Silva** | • Condução das reuniões e registro das atas.<br>• Preenchimento completo e criterioso do **Checklist de Teste Estático de Código**.허<br>• Consolidação e envio do **Relatório Individual de Tarefas**. |
+| **Lucas Silva Santos Napoleão** | • Mapeamento e especificação dos requisitos autorais para cobertura de testes.<br>• Implementação e revisão dos **testes exigidos na Suíte JUnit** (garantindo no mínimo 2 testes para os requisitos autorais). |
+| **José Victor Canario** | • Configuração e execução do **SonarQube** no projeto.<br>• Emissão e análise dos relatórios de *Code Smells*, *Bugs*, *Vulnerabilidades* e percentual de cobertura (*Coverage %*).<br>• Refatoração e correção do código com base nos apontamentos do SonarQube. |
+| **Gabriel Moreira Santos** | • Estruturação e redação oficial do **Documento de Testes**.<br>• Organização das evidências de execução da Suíte JUnit e métricas de qualidade.<br>• Preparação do material para a defesa oral e arguição. |
